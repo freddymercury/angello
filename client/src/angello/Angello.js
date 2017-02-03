@@ -62,8 +62,8 @@ myModule.config(function($routeProvider, $httpProvider, $provide,
 
 // Auth0 Authentication
 authProvider.init({
-    domain: 'angello.auth0.com',
-    clientID: 'Fq8hKAkghu45WpnqrYTc6dbvXhBUdP7l'
+    domain: 'dennispark.auth0.com',
+    clientID: 'Bv2P0fVLdHVAzqQO25wVAxinjVphcGql'
 });
 
     // Loading interceptor
